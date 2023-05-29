@@ -1,5 +1,5 @@
 ### Hi there, my name is Brandon 👋
-### I am currently interning at Amazon as a Software Development Engineer. I am also a Senior Computer Science student at the University of Central Florida.
+### I am interning at Amazon as a Software Development Engineer. I am also a Senior Computer Science student at the University of Central Florida.
 
 <!--
 **bluffdev/bluffdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
