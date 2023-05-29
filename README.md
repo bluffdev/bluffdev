@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+Here are some facts about me:
 - 🔭 I’m currently working on
   - UI design + Fullstack Development
 - 🌱 I’m currently learning
