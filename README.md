@@ -1,5 +1,5 @@
 ### Hi there, my name is Brandon 👋
-I am a Frontend Engineer passionate about building feature-rich and accessible user interfaces. I am currently interning at Amazon as a Software Development Engineer and I am a Senior Computer Science student at the University of Central Florida.
+I'm a Frontend Engineer and Computer Science student at the University of Central Florida.
 
 <!--
 **bluffdev/bluffdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
