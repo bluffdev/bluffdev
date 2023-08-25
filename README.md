@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 Here are some facts about me:
 - 🔭 I’m currently working on
-  - UI design + Fullstack Development
+  - UI Design + Development
+  - Discord Bot Development
 - 🌱 I’m currently learning
-  - T3 Stack
-  - AWS
+  - TanStack
+  - Discord.js
+  - Fly.io
+  - CI/CD
 - ⚡ Fun fact: I am cool 😎
