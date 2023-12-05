@@ -1,5 +1,5 @@
 ### Hi there, my name is Brandon 👋
-I'm a Frontend Engineer and Computer Science student at the University of Central Florida.
+I'm a Frontend Engineer and former Amazon SDE Intern
 
 <!--
 **bluffdev/bluffdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 Here are some facts about me:
 - 🔭 I’m currently working on
-  - UI Design + Development
-  - Discord Bot Development
+  - Full Stack Development
+  - UI Design
 - 🌱 I’m currently learning
-  - TanStack
-  - Discord.js
-  - Fly.io
-  - CI/CD
+  - Webflow + Wized
+  - Figma
+  - Web Accessability
 - ⚡ Fun fact: I am cool 😎
